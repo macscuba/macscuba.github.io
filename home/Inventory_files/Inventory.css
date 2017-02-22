@@ -1,14 +1,14 @@
 .style {
     padding: 4px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_External_630_50 {
     position: relative;
 }
 .style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -92,16 +92,16 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default_External_630_32 {
-    position: relative;
-}
 .graphic_shape_layout_style_default {
     padding: 4px;
+}
+.graphic_shape_layout_style_default_External_630_32 {
+    position: relative;
 }
 .image_cluster_layout_style_default {
     padding: 0px;
 }
-.image_cluster_layout_style_default_External_166_32 {
+.image_cluster_layout_style_default_External_0_0 {
     position: relative;
 }
 a {

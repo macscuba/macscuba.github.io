@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20150916
+// Created by iWeb 3.0.4 local-build-20170222
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://www.mikeandgailk.com/home/Inventory_files/rss.xml",false);}

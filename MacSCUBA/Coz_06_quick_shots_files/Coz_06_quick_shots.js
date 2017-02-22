@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20160926
+// Created by iWeb 3.0.4 local-build-20170222
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://www.mikeandgailk.com/MacSCUBA/Coz_06_quick_shots_files/rss.xml",true);}
