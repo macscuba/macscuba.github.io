@@ -12,6 +12,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_630_91 {
+    position: relative;
+}
 .Header {
     color: rgb(255, 255, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -39,6 +42,9 @@
 }
 .Normal {
     padding: 4px;
+}
+.Normal_External_630_91 {
+    position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
