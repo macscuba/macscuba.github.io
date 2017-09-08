@@ -47,9 +47,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_850_4483 {
-    position: relative;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -63,6 +60,9 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_850_4459 {
+    position: relative;
 }
 .Body {
     color: rgb(255, 255, 255);
@@ -111,7 +111,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_850_4483 {
+.Normal_External_850_4459 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
