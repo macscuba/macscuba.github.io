@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20170222
+// Created by iWeb 3.0.4 local-build-20170923
 
 function createMediaStream_id1()
 {return IWCreatePhotocast("http://www.mikeandgailk.com/Travel/Cruise_-_2001_files/rss.xml",true);}
@@ -23,7 +23,7 @@ function onPageLoad()
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('Cruise_-_2001_files/Cruise_-_2001Moz.css')
 NotificationCenter.addObserver(null,relayoutMediaGrid_id1,'RangeChanged','id1')
-Widget.onload();fixAllIEPNGs('Media/transparent.gif');fixupIECSS3Opacity('id2');initializeMediaStream_id1()
+Widget.onload();fixAllIEPNGs('Media/transparent.gif');IMpreload('Cruise_-_2001_files','shapeimage_2','0');fixupIECSS3Opacity('id2');initializeMediaStream_id1()
 performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
