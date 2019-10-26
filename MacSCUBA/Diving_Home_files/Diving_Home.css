@@ -61,7 +61,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_850_4506 {
+.style_External_850_4516 {
     position: relative;
 }
 .Body {
@@ -111,7 +111,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_850_4506 {
+.Normal_External_850_4516 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -140,6 +140,9 @@
 .graphic_textbox_layout_style_default_External_93_27 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_95_27 {
     position: relative;
 }
@@ -147,9 +150,6 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_92_27 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {

@@ -145,7 +145,7 @@
 .image_cluster_layout_style_default {
     padding: 0px;
 }
-.image_cluster_layout_style_default_External_0_0 {
+.image_cluster_layout_style_default_External_258_32 {
     position: relative;
 }
 a {
@@ -179,10 +179,6 @@ a:hover {
     color: rgb(255, 255, 255);
     text-decoration: underline;
 }
-#widget4 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
 #id2 div.caption {
     line-height: 16px;
     margin-bottom: 0px;
@@ -194,10 +190,6 @@ a:hover {
     padding-top: 0px;
     text-align: center;
     text-indent: 0px;
-}
-#widget4 a:visited {
-    color: rgb(167, 167, 167);
-    text-decoration: underline;
 }
 #widget1 .Comment_Posted_Date {
     color: rgb(255, 255, 255);
@@ -290,10 +282,6 @@ a:hover {
     opacity: 1.00;
     text-decoration: none;
     text-transform: none;
-}
-#widget4 a:hover {
-    color: rgb(190, 190, 190);
-    text-decoration: underline;
 }
 #widget3 a:visited {
     color: rgb(167, 167, 167);
