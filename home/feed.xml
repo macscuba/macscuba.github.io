@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:89135929-DC7E-4BA8-840F-A915B2729B60</id>
  <title>Page list Atom feed</title>
- <updated>2019-11-03T10:21:29-05:00</updated>
+ <updated>2019-11-03T10:39:14-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Homepage</title>
   <in-navbar xmlns="urn:iweb:">5AE29697-FEE2-4562-93D8-FDCF2CEC7D16</in-navbar>
   <link rel="alternate" href="Homepage.html"/>
-  <updated>2019-11-03T10:21:29.001-05:00</updated>
+  <updated>2019-11-03T10:39:14.001-05:00</updated>
   <content>Homepage</content>
  </entry>
  <entry>
@@ -23,16 +23,7 @@
   <title xmlns="urn:iweb:">Valentine 2007</title>
   <in-navbar xmlns="urn:iweb:">D390A08C-6803-409F-A6C4-574B8C9508AD</in-navbar>
   <link rel="alternate" href="Valentine_2007.html"/>
-  <updated>2019-11-03T10:21:29.002-05:00</updated>
+  <updated>2019-11-03T10:39:14.002-05:00</updated>
   <content>Valentine 2007</content>
- </entry>
- <entry>
-  <id>urn:iweb:2C7C3537-74AF-49A1-9BE8-9929AC1EEA84</id>
-  <title>Villages Mag</title>
-  <title xmlns="urn:iweb:">Villages Mag</title>
-  <in-navbar xmlns="urn:iweb:">2C7C3537-74AF-49A1-9BE8-9929AC1EEA84</in-navbar>
-  <link rel="alternate" href="Villages_Mag/Villages_Mag.html"/>
-  <updated>2005-09-20T21:08:38-04:00</updated>
-  <content>Villages Mag</content>
  </entry>
 </feed>

@@ -1,53 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
-  <channel>
-    <title>My Podcast</title>
-    <link>http://www.mikeandgailk.com/home/Villages_Mag/Villages_Mag.html</link>
-    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
-    <generator>iWeb 3.0.4</generator>
-    <image>
-      <url>http://www.mikeandgailk.com/home/Villages_Mag/Villages_Mag_files/skd267685sdc_b.jpg</url>
-      <title>My Podcast</title>
-      <link>http://www.mikeandgailk.com/home/Villages_Mag/Villages_Mag.html</link>
-    </image>
-    <ttl>60</ttl>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:subtitle>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:subtitle>
-    <itunes:summary>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</itunes:summary>
-    <itunes:image href="http://www.mikeandgailk.com/home/Villages_Mag/Villages_Mag_files/skd267685sdc_b.jpg"/>
-    <language>en</language>
-    <item>
-      <title>2019</title>
-      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_2019.html</link>
-      <guid isPermaLink="false">13b0d99c-d21a-4d84-8fa9-fbe3a1d82e2e</guid>
-      <pubDate>Sun, 3 Nov 2019 10:14:15 -0500</pubDate>
-      <description>&lt;a href=&quot;http://www.nxtbook.com/nxtbooks/thevillages/0119/index.php#&quot;&gt;http://www.nxtbook.com/nxtbooks/thevillages/0119/index.php#&lt;/a&gt;/2</description>
-      <itunes:block>yes</itunes:block>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>2018</title>
-      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Entry_1.html</link>
-      <guid isPermaLink="false">0c9a5536-b7b8-4ad2-b426-aa2725e233c9</guid>
-      <pubDate>Sun, 3 Nov 2019 10:14:12 -0500</pubDate>
-      <description>&lt;a href=&quot;http://www.mikeandgailk.com/home/Media/skd281646sdc_300x300-1.mp4&quot;&gt;&lt;img src=&quot;http://www.mikeandgailk.com/home/Villages_Mag/Media/skd281646sdc_300x300-1_2.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
-      <enclosure url="http://www.mikeandgailk.com/home/Media/skd281646sdc_300x300-1.mp4" length="25828" type="video/mp4"/>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:subtitle>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, viva</itunes:subtitle>
-      <itunes:summary>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</itunes:summary>
-    </item>
-    <item>
-      <title>Sounds at the beach</title>
-      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Sounds_at_the_beach.html</link>
-      <guid isPermaLink="false">14ee4ebd-52cf-4ab4-a359-cbe4664c5dae</guid>
-      <pubDate>Sun, 3 Nov 2019 10:14:01 -0500</pubDate>
-      <description>&lt;a href=&quot;http://www.mikeandgailk.com/home/Media/skd281646sdc_300x300-1.mp4&quot;&gt;&lt;img src=&quot;http://www.mikeandgailk.com/home/Villages_Mag/Media/skd281646sdc_300x300-1_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:157px; height:157px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
-      <enclosure url="http://www.mikeandgailk.com/home/Media/skd281646sdc_300x300-1.mp4" length="25828" type="video/mp4"/>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:subtitle>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, viva</itunes:subtitle>
-      <itunes:summary>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce  a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet,  nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</itunes:summary>
-    </item>
-  </channel>
-</rss>
