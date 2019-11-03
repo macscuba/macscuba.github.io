@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Villages Mag</title>
+    <link>http://www.mikeandgailk.com/home/Villages_Mag</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <item>
+      <title>2019</title>
+      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_2019.html</link>
+      <guid isPermaLink="false">13b0d99c-d21a-4d84-8fa9-fbe3a1d82e2e</guid>
+      <pubDate>Sun, 3 Nov 2019 10:14:15 -0500</pubDate>
+      <description>&lt;a href="http://www.nxtbook.com/nxtbooks/thevillages/0119/index.php#"&gt;http://www.nxtbook.com/nxtbooks/thevillages/0119/index.php#&lt;/a&gt;/2</description>
+      <iweb:comment enabled="0" count="0" link="http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_2019.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>2018</title>
+      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Entry_1.html</link>
+      <guid isPermaLink="false">0c9a5536-b7b8-4ad2-b426-aa2725e233c9</guid>
+      <pubDate>Sun, 3 Nov 2019 10:14:12 -0500</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce &#x2028;a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, &#x2028;nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:image href="Media/skd281646sdc_300x300-1.jpg"></iweb:image>
+      <iweb:badge type="movie"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Entry_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Sounds at the beach</title>
+      <link>http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Sounds_at_the_beach.html</link>
+      <guid isPermaLink="false">14ee4ebd-52cf-4ab4-a359-cbe4664c5dae</guid>
+      <pubDate>Sun, 3 Nov 2019 10:14:01 -0500</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce &#x2028;a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, &#x2028;nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:image href="Media/skd281646sdc_300x300-1_1.jpg"></iweb:image>
+      <iweb:badge type="movie"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="http://www.mikeandgailk.com/home/Villages_Mag/Entries/2019/11/3_Sounds_at_the_beach.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.mikeandgailk.com/home/Villages_Mag</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
